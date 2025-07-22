@@ -1,4 +1,5 @@
 # Rock Paper Scissors Game in Python 🎮
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is a simple command-line based **Rock, Paper, Scissors** game written in Python.  
 The user plays against the computer, which makes random choices each round.
