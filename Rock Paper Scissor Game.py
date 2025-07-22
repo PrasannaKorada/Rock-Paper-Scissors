@@ -2,7 +2,7 @@
 """
 Created on Thu Feb 20 23:06:40 2025
 
-@author: GOWRI
+@author: PRASANNA
 """
 
 import random
